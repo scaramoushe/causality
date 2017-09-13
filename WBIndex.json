@@ -1,0 +1,901 @@
+{
+   "version":1.1,
+   "data":[
+      {
+         "chart":{
+            "indicator":"EG.USE.COMM.CL.ZS",
+            "description":"Alternative and nuclear energy (% of total energy use)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.DYN.TFRT.IN",
+            "description":"Fertility rate, total (births per woman)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"NY.GDP.DEFL.KD.ZG",
+            "description":"Inflation, GDP deflator (annual %)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IC.LGL.CRED.XQ",
+            "description":"Strength of legal rights index (0=weak to 12=strong)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.POP.DNST",
+            "description":"Population density (people per sq. km of land area)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.POP.TOTL.FE.ZS",
+            "description":"Population, female (% of total)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EG.USE.ELEC.KH.PC",
+            "description":"Electric power consumption (kWh per capita)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EG.ELC.ACCS.ZS",
+            "description":"Access to electricity (% of population)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EG.USE.COMM.FO.ZS",
+            "description":"Fossil fuel energy consumption (% of total)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.XPD.TOTL.ZS",
+            "description":"Health expenditure, total (% of GDP)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"ST.INT.XPND.MP.ZS",
+            "description":"International tourism, expenditures (% of total imports)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IE.PPI.ENGY.CD",
+            "description":"Investment in energy with private participation (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.XPD.OOPC.TO.ZS",
+            "description":"Out-of-pocket health expenditure (% of total expenditure on health)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SE.PRM.TCAQ.ZS",
+            "description":"Percentage of teachers in primary education who are trained, both sexes (%)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.POP.SCIE.RD.P6",
+            "description":"Researchers in R&D (per million people)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.ATM.GHGT.KT.CE",
+            "description":"Total greenhouse gas emissions (kt of CO2 equivalent)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"NY.GDP.MKTP.CD",
+            "description":"GDP (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"AG.LND.AGRI.ZS",
+            "description":"Agricultural land (% of land area)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SL.TLF.TOTL.IN",
+            "description":"Labor force, total",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"AG.LND.TOTL.K2",
+            "description":"Land area (sq. km)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.DYN.LE00.IN",
+            "description":"Life expectancy at birth, total (years)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"CM.MKT.LDOM.NO",
+            "description":"Listed domestic companies, total",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.MAM.THRD.NO",
+            "description":"Mammal species, threatened",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"MS.MIL.XPND.ZS",
+            "description":"Military expenditure (% of central government expenditure)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"NY.GDP.PCAP.CD",
+            "description":"GDP per capita (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IC.BUS.EASE.XQ",
+            "description":"Ease of doing business index (1=most business-friendly regulations)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"TX.VAL.TECH.CD",
+            "description":"High-technology exports (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"CM.MKT.LCAP.GD.ZS",
+            "description":"Market capitalization of listed domestic companies (% of GDP)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"CM.MKT.LCAP.CD",
+            "description":"Market capitalization of listed domestic companies (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.STA.MMRT",
+            "description":"Maternal mortality ratio (modeled estimate, per 100,000 live births)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.ATM.METH.KT.CE",
+            "description":"Methane emissions (kt of CO2 equivalent)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SM.POP.REFG.OR",
+            "description":"Refugee population by country or territory of origin",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"NY.GNS.ICTR.ZS",
+            "description":"Gross savings (% of GDP)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.XPD.PCAP",
+            "description":"Health expenditure per capita (current US$)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"VC.IHR.PSRC.P5",
+            "description":"Intentional homicides (per 100,000 people)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.TBS.INCD",
+            "description":"Incidence of tuberculosis (per 100,000 people)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IC.FRM.FEMM.ZS",
+            "description":"Firms with female top manager (% of firms)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.FSH.THRD.NO",
+            "description":"Fish species, threatened",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"AG.LND.FRST.ZS",
+            "description":"Forest area (% of land area)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"GC.TAX.TOTL.GD.ZS",
+            "description":"Tax revenue (% of GDP)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"AG.LND.IRIG.AG.ZS",
+            "description":"Agricultural irrigated land (% of total agricultural land)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.ATM.CO2E.PC",
+            "description":"CO2 emissions (metric tons per capita)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.DYN.CDRT.IN",
+            "description":"Death rate, crude (per 1,000 people)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EG.USE.PCAP.KG.OE",
+            "description":"Energy use (kg of oil equivalent per capita)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IS.RRS.TOTL.KM",
+            "description":"Rail lines (total route-km)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EG.ELC.RNEW.ZS",
+            "description":"Renewable electricity output (% of total electricity output)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"CM.MKT.INDX.ZG",
+            "description":"S&P Global Equity Indices (annual % change)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"DT.DOD.DSTC.IR.ZS",
+            "description":"Short-term debt (% of total reserves)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"MS.MIL.XPND.GD.ZS",
+            "description":"Military expenditure (% of GDP)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"FB.CBK.BRCH.P5",
+            "description":"Commercial bank branches (per 100,000 adults)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.STA.TRAF.P5",
+            "description":"Mortality caused by road traffic injury (per 100,000 people)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.DYN.IMRT.IN",
+            "description":"Mortality rate, infant (per 1,000 live births)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SH.DYN.NMRT",
+            "description":"Mortality rate, neonatal (per 1,000 live births)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.ATM.NOXE.KT.CE",
+            "description":"Nitrous oxide emissions (thousand metric tons of CO2 equivalent)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"AG.LND.CROP.ZS",
+            "description":"Permanent cropland (% of land area)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.POP.GROW",
+            "description":"Population growth (annual %)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SE.PRM.NENR",
+            "description":"School enrollment, primary (% net)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"EN.URB.LCTY.UR.ZS",
+            "description":"Population in the largest city (% of urban population)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.POP.TOTL",
+            "description":"Population, total",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.RUR.TOTL",
+            "description":"Rural population",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"SP.URB.TOTL",
+            "description":"Urban population",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IC.TAX.TOTL.CP.ZS",
+            "description":"Total tax rate (% of commercial profits)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"IP.JRN.ARTC.SC",
+            "description":"Scientific and technical journal articles",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      },
+      {
+         "chart":{
+            "indicator":"NY.GDP.MKTP.KD.ZG",
+            "description":"GDP growth (annual %)",
+            "charts":[
+               "line",
+               "bar",
+               "map"
+            ]
+         },
+         "tags":[
+
+         ]
+      }
+   ]
+}
