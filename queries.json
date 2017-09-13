@@ -1,0 +1,93 @@
+{
+	"version":"1.01",
+	"queries":[
+		{
+			"query":"drive [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"drives [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"impact [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"impacts [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"affect [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"affects [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"[term] caused by",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * caused by",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] induced by",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * induced by",
+			"position":"postfix"
+		},
+		{
+			"query":"linked to [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"linked to * [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"leads to [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"leads to * [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"indicative of [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"indicative of * [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"is contributing to [term]",
+			"position":"everything"
+		},
+		{
+			"query":"causes of [term] include",
+			"position":"postfix"
+		},
+		{
+			"query":"predict [term] based on",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] as * result of",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] due to",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * due to",
+			"position":"postfix"
+		}
+	]
+}
