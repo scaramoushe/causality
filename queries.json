@@ -88,6 +88,10 @@
 		{
 			"query":"[term] * due to",
 			"position":"postfix"
+		},
+		{
+			"query":"[term] benefit from",
+			"position":"postfix"
 		}
 	]
 }
