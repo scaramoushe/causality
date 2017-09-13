@@ -12,7 +12,7 @@
             ]
          },
          "tags":[
-
+            "economic","economics","energy"
          ]
       },
       {
@@ -26,7 +26,7 @@
             ]
          },
          "tags":[
-
+            "birth rate","population","fertility"
          ]
       },
       {
@@ -40,7 +40,7 @@
             ]
          },
          "tags":[
-
+            "gdp","economic","economics","inflation"
          ]
       },
       {
@@ -54,7 +54,7 @@
             ]
          },
          "tags":[
-
+            "human rights","law"
          ]
       },
       {
@@ -68,7 +68,7 @@
             ]
          },
          "tags":[
-
+            "population","demographic"
          ]
       },
       {
@@ -82,7 +82,7 @@
             ]
          },
          "tags":[
-
+            "population","demographic","female"
          ]
       },
       {
@@ -96,7 +96,7 @@
             ]
          },
          "tags":[
-
+            "economic","economics","electricity","energy"
          ]
       },
       {
@@ -110,7 +110,7 @@
             ]
          },
          "tags":[
-
+            "population","electricity","energy"
          ]
       },
       {
@@ -124,7 +124,7 @@
             ]
          },
          "tags":[
-
+            "economic","economics","fuel","energy"
          ]
       },
       {
@@ -138,7 +138,7 @@
             ]
          },
          "tags":[
-
+              "population","health","gdp"
          ]
       },
       {
@@ -152,7 +152,7 @@
             ]
          },
          "tags":[
-
+            "tourism"
          ]
       },
       {
@@ -166,7 +166,7 @@
             ]
          },
          "tags":[
-
+            "energy"
          ]
       },
       {
@@ -180,7 +180,7 @@
             ]
          },
          "tags":[
-
+            "health"
          ]
       },
       {
@@ -194,7 +194,7 @@
             ]
          },
          "tags":[
-
+            "education","school","teacher"
          ]
       },
       {
@@ -208,7 +208,7 @@
             ]
          },
          "tags":[
-
+            "industry","r&d","research"
          ]
       },
       {
@@ -222,7 +222,7 @@
             ]
          },
          "tags":[
-
+            "climate","warming","earth"
          ]
       },
       {
@@ -236,7 +236,7 @@
             ]
          },
          "tags":[
-
+            "gdp"
          ]
       },
       {
@@ -250,7 +250,7 @@
             ]
          },
          "tags":[
-
+            "agriculture"
          ]
       },
       {
@@ -264,7 +264,7 @@
             ]
          },
          "tags":[
-
+            "population","demographic","labor"
          ]
       },
       {
@@ -278,7 +278,7 @@
             ]
          },
          "tags":[
-
+            "earth","land","country"
          ]
       },
       {
@@ -292,7 +292,7 @@
             ]
          },
          "tags":[
-
+            "population","demographic","life"
          ]
       },
       {
@@ -306,7 +306,7 @@
             ]
          },
          "tags":[
-
+            "economics","business","company"
          ]
       },
       {
@@ -320,7 +320,7 @@
             ]
          },
          "tags":[
-
+            "earth","animal","wild"
          ]
       },
       {
@@ -334,7 +334,7 @@
             ]
          },
          "tags":[
-
+            "military","war"
          ]
       },
       {
@@ -348,7 +348,7 @@
             ]
          },
          "tags":[
-
+            "gdp","population"
          ]
       },
       {
@@ -362,7 +362,7 @@
             ]
          },
          "tags":[
-
+            "economics","business"
          ]
       },
       {
@@ -376,7 +376,7 @@
             ]
          },
          "tags":[
-
+            "economics","export","technology"
          ]
       },
       {
@@ -390,7 +390,7 @@
             ]
          },
          "tags":[
-
+            "economics","capital","company"
          ]
       },
       {
@@ -404,7 +404,7 @@
             ]
          },
          "tags":[
-
+            "economics","market","company"
          ]
       },
       {
@@ -418,7 +418,7 @@
             ]
          },
          "tags":[
-
+            "birth","death","mortality"
          ]
       },
       {
@@ -432,7 +432,7 @@
             ]
          },
          "tags":[
-
+            "climate","emission","methane"
          ]
       },
       {
@@ -446,7 +446,7 @@
             ]
          },
          "tags":[
-
+            "population","demographic","war","refugee"
          ]
       },
       {
@@ -460,7 +460,7 @@
             ]
          },
          "tags":[
-
+            "economic","economics","saving"
          ]
       },
       {
@@ -474,7 +474,7 @@
             ]
          },
          "tags":[
-
+            "health","medicine"
          ]
       },
       {
@@ -488,7 +488,7 @@
             ]
          },
          "tags":[
-
+            "crime","death"
          ]
       },
       {
@@ -502,35 +502,7 @@
             ]
          },
          "tags":[
-
-         ]
-      },
-      {
-         "chart":{
-            "indicator":"IC.FRM.FEMM.ZS",
-            "description":"Firms with female top manager (% of firms)",
-            "charts":[
-               "line",
-               "bar",
-               "map"
-            ]
-         },
-         "tags":[
-
-         ]
-      },
-      {
-         "chart":{
-            "indicator":"EN.FSH.THRD.NO",
-            "description":"Fish species, threatened",
-            "charts":[
-               "line",
-               "bar",
-               "map"
-            ]
-         },
-         "tags":[
-
+            "tuberculosis"
          ]
       },
       {
@@ -544,7 +516,7 @@
             ]
          },
          "tags":[
-
+            "earth","forest"
          ]
       },
       {
@@ -558,7 +530,7 @@
             ]
          },
          "tags":[
-
+            "economics","goverment","tax","gdp"
          ]
       },
       {
@@ -572,7 +544,7 @@
             ]
          },
          "tags":[
-
+            "agriculture","irrigation"
          ]
       },
       {
@@ -586,7 +558,7 @@
             ]
          },
          "tags":[
-
+            "car","climate","emission","co2"
          ]
       },
       {
@@ -600,7 +572,7 @@
             ]
          },
          "tags":[
-
+            "death","mortality"
          ]
       },
       {
@@ -614,7 +586,7 @@
             ]
          },
          "tags":[
-
+            "energy"
          ]
       },
       {
@@ -628,7 +600,7 @@
             ]
          },
          "tags":[
-
+            "rail","train"
          ]
       },
       {
@@ -642,7 +614,7 @@
             ]
          },
          "tags":[
-
+            "electricity","energy","renewable"
          ]
       },
       {
@@ -656,7 +628,7 @@
             ]
          },
          "tags":[
-
+            "economics","equity"
          ]
       },
       {
@@ -670,7 +642,7 @@
             ]
          },
          "tags":[
-
+            "debt","bank"
          ]
       },
       {
@@ -684,7 +656,7 @@
             ]
          },
          "tags":[
-
+            "military","war"
          ]
       },
       {
@@ -698,7 +670,7 @@
             ]
          },
          "tags":[
-
+            "bank","commerce"
          ]
       },
       {
@@ -712,7 +684,7 @@
             ]
          },
          "tags":[
-
+            "car","accident","death","injury"
          ]
       },
       {
@@ -726,7 +698,7 @@
             ]
          },
          "tags":[
-
+            "child","infant","death","mortality"
          ]
       },
       {
@@ -740,7 +712,7 @@
             ]
          },
          "tags":[
-
+            "birth","death"
          ]
       },
       {
@@ -754,7 +726,7 @@
             ]
          },
          "tags":[
-
+            "emission"
          ]
       },
       {
@@ -768,7 +740,7 @@
             ]
          },
          "tags":[
-
+            "agriculture","crop"
          ]
       },
       {
@@ -782,7 +754,7 @@
             ]
          },
          "tags":[
-
+            "population"
          ]
       },
       {
@@ -796,7 +768,7 @@
             ]
          },
          "tags":[
-
+            "education","school"
          ]
       },
       {
@@ -810,7 +782,7 @@
             ]
          },
          "tags":[
-
+            "population","city"
          ]
       },
       {
@@ -824,7 +796,7 @@
             ]
          },
          "tags":[
-
+            "population"
          ]
       },
       {
@@ -838,7 +810,7 @@
             ]
          },
          "tags":[
-
+            "population"
          ]
       },
       {
@@ -852,7 +824,7 @@
             ]
          },
          "tags":[
-
+            "population","urban","city"
          ]
       },
       {
@@ -866,7 +838,7 @@
             ]
          },
          "tags":[
-
+            "economics","tax"
          ]
       },
       {
@@ -880,7 +852,7 @@
             ]
          },
          "tags":[
-
+            "science"
          ]
       },
       {
@@ -894,7 +866,7 @@
             ]
          },
          "tags":[
-
+              "gdp"
          ]
       }
    ]
