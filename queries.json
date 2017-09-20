@@ -89,6 +89,10 @@
 			"query":"[term] * due to",
 			"position":"postfix"
 		},
+				{
+			"query":"Factors that affect [term]",
+			"position":"prefix"
+		},
 		{
 			"query":"[term] benefit from",
 			"position":"postfix"
