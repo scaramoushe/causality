@@ -92,6 +92,26 @@
 		{
 			"query":"[term] benefit from",
 			"position":"postfix"
+		},
+		{
+			"query":"[term] * determined by",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] depend on",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * depend on",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] depend upon",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * depend upon",
+			"position":"postfix"
 		}
 	]
 }
