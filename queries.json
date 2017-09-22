@@ -112,6 +112,10 @@
 		{
 			"query":"[term] * depend upon",
 			"position":"postfix"
+		},
+		{
+			"query":"is * factor determining [term]",
+			"position":"prefix"
 		}
 	]
 }
