@@ -114,6 +114,18 @@
 			"position":"postfix"
 		},
 		{
+			"query":"[term] depend * upon",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * dependent on",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] * depending on",
+			"position":"postfix"
+		},
+		{
 			"query":"is * factor determining [term]",
 			"position":"prefix"
 		}
