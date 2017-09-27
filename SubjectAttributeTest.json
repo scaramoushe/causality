@@ -1,27 +1,27 @@
 [
     {
-        sentence:"housing prices",
-        subject:"housing",
-        attribute:"price"
+        "sentence":"housing prices",
+        "subject":"housing",
+        "attribute":"price"
     },
     {
-        sentence:"demand for housing",
-        subject:"housing",
-        attribute:"price"
+        "sentence":"demand for housing",
+        "subject":"housing",
+        "attribute":"price"
     },
     {
-        sentence:"interest rate",
-        subject:"interest",
-        attribute:"rate"
+        "sentence":"interest rate",
+        "subject":"interest",
+        "attribute":"rate"
     },
     {
-        sentence:"price of land",
-        subject:"land",
-        attribute:"price"
+        "sentence":"price of land",
+        "subject":"land",
+        "attribute":"price"
     },
     {
-        sentence:"land prices",
-        subject:"land",
-        attribute:"price"
+        "sentence":"land prices",
+        "subject":"land",
+        "attribute":"price"
     },
 ]
