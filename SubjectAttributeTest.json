@@ -23,5 +23,20 @@
         "sentence":"land prices",
         "subject":"land",
         "attribute":"price"
+    },
+    {
+        "sentence":"demand for homes",
+        "subject":"homes",
+        "attribute":"demand"
+    },
+    {
+        "sentence":"strict land-use regulations",
+        "subject":"land-use regulation",
+        "attribute":"strict"
+    },
+     {
+        "sentence":"Supply Of Housing",
+        "subject":"housing",
+        "attribute":"supply"
     }
 ]
