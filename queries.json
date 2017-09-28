@@ -90,7 +90,7 @@
 			"position":"postfix"
 		},
 				{
-			"query":"Factors that affect [term]",
+			"query":"factors that affect [term]",
 			"position":"prefix"
 		},
 		{
