@@ -7,7 +7,7 @@
     {
         "sentence":"demand for housing",
         "subject":"housing",
-        "attribute":"price"
+        "attribute":"demand"
     },
     {
         "sentence":"interest rate",
