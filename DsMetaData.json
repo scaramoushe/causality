@@ -11,6 +11,6 @@
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Demand.csv.gz",
         "keywords":["demand"],
         "valueColumn":"area_counts",
-        "keyColumns:"["latLong"]  
+        "keyColumns":["latLong"]  
     }
 ]
