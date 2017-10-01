@@ -32,3 +32,4 @@ restrict
 below-normal
 loss of
 negative effect on
+stagnating
