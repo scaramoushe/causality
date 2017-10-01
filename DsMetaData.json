@@ -1,16 +1,16 @@
 [
     {
-        name:"Supply",
-        url:"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Supply.csv.gz",
-        keywords:["supply"],
-        valueColumn:"created",
-        keyColumns:["latLong"]  
+        "name":"Supply",
+        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Supply.csv.gz",
+        "keywords":["supply"],
+        "valueColumn":"created",
+        "keyColumns":["latLong"]  
     },
     {
-        name:"Demand",
-        url:"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Demand.csv.gz",
-        keywords:["demand"],
-        valueColumn:"area_counts",
-        keyColumns:["latLong"]  
+        "name":"Demand",
+        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Demand.csv.gz",
+        "keywords":["demand"],
+        "valueColumn":"area_counts",
+        "keyColumns:"["latLong"]  
     }
 ]
