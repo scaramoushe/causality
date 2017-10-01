@@ -1,16 +1,16 @@
 [
     {
-        "name":"Supply",
+        "name":"Housing Prices",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Supply.csv.gz",
-        "keywords":["supply"],
-        "valueColumn":"created",
+        "keywords":["housing prices"],
+        "valueColumn":"area_median_price_per_square_foot",
         "keyColumns":["latLong"]  
     },
     {
         "name":"Demand",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Demand.csv.gz",
         "keywords":["demand"],
-        "valueColumn":"area_counts",
+        "valueColumn":"created",
         "keyColumns":["latLong"]  
     }
 ]
