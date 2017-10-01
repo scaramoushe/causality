@@ -1,7 +1,7 @@
 [
     {
         "name":"Housing Prices",
-        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/Supply.csv.gz",
+        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/HousingPrices.csv.gz",
         "keywords":["housing prices"],
         "valueColumn":"area_median_price_per_square_foot",
         "keyColumns":["latLong"]  
