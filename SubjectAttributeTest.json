@@ -34,9 +34,24 @@
         "subject":"land-use regulation",
         "attribute":"strict"
     },
-     {
-        "sentence":"supply of housing",
-        "subject":"housing",
-        "attribute":"supply"
+    {
+        "sentence":"racial profile of local residents",
+        "subject":"local residents",
+        "attribute":"racial profile"
+    },
+    {
+        "sentence":"specific modification",
+        "subject":"modification",
+        "attribute":"specific"
+    },
+    {
+        "sentence":"local market conditions",
+        "subject":"local market",
+        "attribute":"condition"
+    },
+    {
+        "sentence":"speculations in the housing market",
+        "subject":"housing market",
+        "attribute":"speculation"
     }
 ]
