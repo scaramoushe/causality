@@ -132,6 +132,10 @@
 		{
 			"query":"is * factor determining [term]",
 			"position":"prefix"
+		},
+		{
+			"query":"[term] * after",
+			"position":"postfix"
 		}
 	]
 }
