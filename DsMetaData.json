@@ -63,4 +63,26 @@
         "valueColumn":"created",
         "keyColumns":["latLong"]  
     }
+    
+ ,{
+        "name":"GlobalCommodityNominalPricesWorldBank_Oil",
+        "url":"https://s3.amazonaws.com/public-sparkbeyond/world-knowledge/GEM_GlobalCommodityPrices-Nominal-WorldBank-9-2017.csv.gz",
+        "keywords":["supply","demand","commodities", "commodity", "trade", "materials","trade","goods", "food", "prices", "minerals", "oil","food"],
+        "valueColumn":"crudeOil_WTI_bbl_Nominal_CRUDE_WTI_",
+        "keyColumns":["time"]  
+    }
+  ,{
+        "name":"GlobalCommodityNominalPricesWorldBank_Copper",
+        "url":"https://s3.amazonaws.com/public-sparkbeyond/world-knowledge/GEM_GlobalCommodityPrices-Nominal-WorldBank-9-2017.csv.gz",
+        "keywords":["supply","demand","commodities", "commodity", "trade", "materials","trade","goods", "prices", "minerals", "oil","copper","metals"],
+        "valueColumn":"copper_mt_Nominal_COPPER_",
+        "keyColumns":["time"]  
+    }   
+   ,{
+        "name":"GlobalCommodityNominalPricesWorldBank_CoffeeArabica",
+        "url":"https://s3.amazonaws.com/public-sparkbeyond/world-knowledge/GEM_GlobalCommodityPrices-Nominal-WorldBank-9-2017.csv.gz",
+        "keywords":["supply","demand","commodities", "commodity", "trade", "materials","trade","goods", "prices", "minerals", "oil","copper","metals"],
+        "valueColumn":"coffee_Arabica_kg_Nominal_COFFEE_ARABIC_",
+        "keyColumns":["time"]  
+    }      
 ]
