@@ -102,5 +102,21 @@
         "keyColumns":["date"]  
     }    
     
+      ,{
+        "name":"GoldPrice_monthly_USD",
+        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/GOLD_Price_Monthly-LBMA.csv.gz",
+        "keywords":["price","valuables", "gold","gold price","supply","demand","commodities", "commodity", "gold", "mineral","metal","goods", "prices","metals"],
+        "valueColumn":"gold_USD",
+        "keyColumns":["date"]  
+    }   
+ 
+    ,{
+        "name":"UK-FloodRisk-openPostalCodes_2015",
+        "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/GOLD_Price_Monthly-LBMA.csv.gz",
+        "keywords":["flood","UK", "Flooding","risk","insurance","water","flood risk", "water damage"],
+        "valueColumn":"risk_for_insurance_sop",
+        "keyColumns":["latLong"]  
+    }   
     
+  
 ]
