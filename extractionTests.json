@@ -1,0 +1,898 @@
+[  
+   {  
+      "sentence":"as expected, distance from water negatively impacts housing prices, with this effect dropping off between 2–5 miles from shore.",
+      "expected":[  
+         "distance from water"
+      ],
+      "term":"housing prices",
+      "query":{  
+         "query":"impacts [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"other causes of domestic violence include; disagreement with their intimate partner, protracted periods of unemployment, financial issues,",
+      "expected":[  
+         "periods of unemployment",
+         "disagreement with their intimate partner",
+         "financial issues"
+      ],
+      "term":"domestic violence",
+      "query":{  
+         "query":"causes of [term] include",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"and while demand for housing in certain markets has combined with shrinking inventories to drive housing prices up to pre-financial and",
+      "expected":[  
+         "demand for housing in certain markets"
+      ],
+      "term":"housing prices",
+      "query":{  
+         "query":"drive [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"customers were dissatisfied with fluctuating boat prices due to unpredictable exchange rates, an unreliable supply of spare parts, and uncertain delivery dates",
+      "expected":[  
+         "unpredictable exchange rates",
+         "unreliable supply of spare parts",
+         "uncertain delivery"
+      ],
+      "term":"boat prices",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "unreliable supply",
+         "spare parts"
+      ]
+   },
+   {  
+      "sentence":"traffic jams induced by fluctuation of a leading car",
+      "expected":[  
+         "fluctuation of a leading car"
+      ],
+      "term":"traffic jams",
+      "query":{  
+         "query":"[term] induced by",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "fluctuation",
+         "leading car"
+      ]
+   },
+   {  
+      "sentence":"housing prices differ depending on the location, and your school will take housing costs into consideration when determining salaries and ",
+      "expected":[  
+         "the location"
+      ],
+      "term":"housing prices",
+      "query":{  
+         "query":"[term] * depending on",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"cost of fuel as this affects shipping prices",
+      "expected":[  
+         "cost of fuel"
+      ],
+      "term":"shipping prices",
+      "query":{  
+         "query":"affect [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+         "cost"
+      ]
+   },
+   {  
+      "sentence":"disentangle changes in housing prices caused by supply shocks from those brought about by shocks to demand",
+      "expected":[  
+         "supply shocks"
+      ],
+      "term":"housing prices",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"in this visualization, the weather company expert storybook shows how weather impacts beer sales.",
+      "expected":[  
+         "weather"
+      ],
+      "term":"beer sales",
+      "query":{  
+         "query":"[term] impacts",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "the weather company expert"
+      ]
+   },
+   {  
+      "sentence":"students will be able to list 5 physical features with 80% accuracy present on the ocean floor that affect ocean depth",
+      "expected":[  
+         "5 physical features"
+      ],
+      "term":"ocean depth",
+      "query":{  
+         "query":"affect [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+         "students"
+      ]
+   },
+   {  
+      "sentence":"customer churn due to declining loyalty & poor cx represents $470 billion life and",
+      "expected":[  
+         "declining loyalty"
+      ],
+      "term":"customer churn",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "$470 billion life"
+      ]
+   },
+   {  
+      "sentence":"the thickness of an electrolyte affects corrosion processes in several different ways.",
+      "expected":[  
+         "the thickness of an electrolyte"
+      ],
+      "term":"corrosion",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"changes in moisture content due to changes of temperature were obtained by equations proposed by chen and clayton.",
+      "expected":[  
+         "changes of temperature"
+      ],
+      "term":"moisture",
+      "query":{  
+         "query":"[term] * due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"changes in soil moisture due to shifting precipitation regimes and evapotranspiration rates, which changes infiltration and runoff ratios",
+      "expected":[  
+         "shifting precipitation regimes"
+      ],
+      "term":"moisture",
+      "query":{  
+         "query":"[term] * due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "infiltration"
+      ]
+   },
+   {  
+      "sentence":"the presence of srb in the sea mud extracted solution affects corrosion of steel remarkably. in the absence of srb",
+      "expected":[  
+         "the presence of srb in the sea mud"
+      ],
+      "term":"corrosion",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"avoid corrosion caused by contact with timber",
+      "expected":[  
+         "contact with timber"
+      ],
+      "term":"corrosion",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the 1715 communal riots were due to looting of shops of the hindus by the muslim soldiers.",
+      "expected":[  
+         "looting of shops",
+         "the muslim soldiers"
+      ],
+      "term":"riots",
+      "query":{  
+         "query":"[term] * due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "hindus"
+      ]
+   },
+   {  
+      "sentence":"dispute over urdu language being used on a 10-minute tv broadcast leads to riots, 17 deaths.",
+      "expected":[  
+         "dispute over urdu language"
+      ],
+      "term":"riots",
+      "query":{  
+         "query":"leads to * [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+         "a 10-minute tv broadcast"
+      ]
+   },
+   {  
+      "sentence":"many times the issue ends up being a user error caused by a lack of user experience or distractions during data entry.",
+      "expected":[  
+         "a lack of user experience"
+      ],
+      "term":"user error",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "a lack"
+      ]
+   },
+   {  
+      "sentence":"if you are going to take the proffits from large beer sales due to such things as yesterdays brass band competition at least arrange for enough staff to cope with",
+      "expected":[  
+         "such things as yesterdays brass band competition"
+      ],
+      "term":"beer sales",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "enough staff"
+      ]
+   },
+   {  
+      "sentence":"market data has revealed that serving beer in branded glassware leads to increasing beer sales and profit margins,” she said.",
+      "expected":[  
+         "serving beer in branded glassware"
+      ],
+      "term":"beer sales",
+      "query":{  
+         "query":"leads to * [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+         "market data"
+      ]
+   },
+   {  
+      "sentence":"the rule about deriving at least 25 percent in beer sales is due to the mixed-use building, which has apartments above and retail below.",
+      "expected":[  
+         "the mixed-use building"
+      ],
+      "term":"beer sales",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "apartments"
+      ]
+   },
+   {  
+      "sentence":"global warming is caused by a blanket of pollution that traps heat around the earth",
+      "expected":[  
+         "a blanket of pollution"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "the earth"
+      ]
+   },
+   {  
+      "sentence":"Based on this, this work proposes an innovative and effective method to manage and predict customer churn based on mobile application usage",
+      "expected":[  
+         "mobile application usage"
+      ],
+      "term":"customer churn",
+      "query":{  
+         "query":"predict [term] based on",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"but the fall in beer sales due to the laws was still much smaller than the underlying decline in on-trade beer sales since the late 1990s (as",
+      "expected":[  
+         "the laws"
+      ],
+      "term":"beer sales",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+         "he underlying decline",
+         "the late 1990s"
+      ]
+   },
+   {  
+      "sentence":"the bank saw an increase in customer satisfaction due to the more personalized experience, and customers reported feeling more valued. ",
+      "expected":[  
+         "the more personalized experience"
+      ],
+      "term":"customer satisfaction",
+      "query":{  
+         "query":"[term] due to",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"(a commonly carried virus suspected to cause colorectal cancer) and seek a better understanding of how chronic inflammation leads to colon cancer.",
+      "expected":[  
+         "chronic inflammation"
+      ],
+      "term":"colon cancer",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the coalition wants to tell the story of how transit is contributing to quality of life for everyone.",
+      "expected":[  
+         "transit"
+      ],
+      "term":"quality",
+      "query":{  
+         "query":"is contributing to [term]",
+         "position":"everything"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"one of the major constrains for plant growth and development is mineral nutrient deficiency, which affects agricultural yield worldwide ",
+      "expected":[  
+         "mineral nutrient deficiency"
+      ],
+      "term":"agricultural yield",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"in india, document that variation in weather affects agricultural yield and results in substantial loss of welfare for people in rain-dependent agrarian communities.",
+      "expected":[  
+         "variation in weather"
+      ],
+      "term":"agricultural yield",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the changing family structure caused by both parents working outside the home, the advent of the single-parent household, the necessity of federally mandated",
+      "expected":[  
+         "both parents working outside the home"
+      ],
+      "term":"family structure",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"introduction: tick infestation is a serious problem in many countries, for it affects agricultural yield and the health of food-producing animals, pets and on many",
+      "expected":[  
+         "tick infestation"
+      ],
+      "term":"agricultural yield",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"corrosion in fire sprinkler systems leads to water damage, plugging problems, reduced hydraulic performance and reduced service life",
+      "expected":[  
+         "corrosion in fire sprinkler systems"
+      ],
+      "term":"water damage",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+         "fire sprinkler systems"
+      ]
+   },
+   {  
+      "sentence":"the results certainly help to support the argument that conforming to group identity and social norms affects individual success.",
+      "expected":[  
+         "social norms"
+      ],
+      "term":"individual success",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"in the lesson, students describe and later compare how weather affects human activity in two places on opposite sides of the world.",
+      "expected":[  
+         "weather"
+      ],
+      "term":"human activity",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"air purifiers directly relate to mesothelioma as studies have shown that a lack of adequate ventilation often leads to asbestos exposure.",
+      "expected":[  
+         "a lack of adequate ventilation"
+      ],
+      "term":"asbestos exposure",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the increase of shareholder value is linked to company profitability that induce the; 30.",
+      "expected":[  
+         "the increase of shareholder value"
+      ],
+      "term":"company profitability",
+      "query":{  
+         "query":"linked to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"these decisions strongly influence both the efficiency and the effectiveness of the sales force investment and are directly linked to company profitability.",
+      "expected":[  
+         "the effectiveness of the sales force investment"
+      ],
+      "term":"company profitability",
+      "query":{  
+         "query":"linked to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the performance of industrial control loops directly affects company profitability and operability in several ways including stability, robustness",
+      "expected":[  
+         "the performance of industrial control loops"
+      ],
+      "term":"company profitability",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"ebola outbreak caused by boy playing in bat tree",
+      "expected":[  
+         "boy playing in bat tree"
+      ],
+      "term":"ebola outbreak",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"more times than not, the overarching message of these efforts is that teen sexuality is bad because it leads to teen pregnancy, which leads to a",
+      "expected":[  
+         "teen sexuality"
+      ],
+      "term":"teen pregnancy",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"a large part of this teen pregnancy crisis has been caused by adults withholding important information from teens",
+      "expected":[  
+         "adults withholding important information from teens"
+      ],
+      "term":"teen pregnancy",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"first of all, the study does not, indeed cannot, show that watching sexual content on tv leads to teen pregnancy.",
+      "expected":[  
+         "watching sexual content on tv"
+      ],
+      "term":"teen pregnancy",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"scarcity of water often leads to political conflicts.",
+      "expected":[  
+         "scarcity of water"
+      ],
+      "term":"political conflicts",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"first of all, the study does not, indeed cannot, show that watching sexual content on tv leads to teen pregnancy.",
+      "expected":[  
+         "watching sexual content on tv"
+      ],
+      "term":"teen pregnancy",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"consumption of fossil fuel resources leads to global warming and climate change.",
+      "expected":[  
+         "consumption of fossil fuel resources"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"increasing customer's cost leads to customer churn.",
+      "expected":[  
+         "increasing customer's cost"
+      ],
+      "term":"customer churn",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"provided evidence that a lack of previous veterinary care was linked to pet abandonment during disasters.",
+      "expected":[  
+         "a lack of previous veterinary care"
+      ],
+      "term":"pet abandonment",
+      "query":{  
+         "query":"linked to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the destruction of the rainforests is contributing to global warming",
+      "expected":[  
+         "the destruction of the rainforests"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"is contributing to [term]",
+         "position":"everything"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"treating cattle with antibiotics affects greenhouse gas emissions, and microbiota in dung and dung beetles.",
+      "expected":[  
+         "treating cattle with antibiotics"
+      ],
+      "term":"greenhouse gas",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"sixth-graders in clinton huey's class at bancroft middle school demonstrate how carbon dioxide leads to global warming.",
+      "expected":[  
+         "carbon dioxide"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"at present, a decidedly more important problem lies in the political conflicts caused by increasing environmental pressure.",
+      "expected":[  
+         "increasing environmental pressure"
+      ],
+      "term":"political conflicts",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"therefore, the aim of this paper is to analyze and discuss political conflicts caused by territorial boundaries between são paulo and minas gerais, as well as the",
+      "expected":[  
+         "territorial boundaries between são paulo"
+      ],
+      "term":"political conflicts",
+      "query":{  
+         "query":"[term] caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"in the present age, the temperature of the earth's climate system continue rapidly increase and it leads to global warming.",
+      "expected":[  
+         "the temperature of the earth's climate system"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"the melting of the arctic ice sheets is indicative of global warming, there is absolutely no scientific evidence that proves co2 and",
+      "expected":[  
+         "the melting of the arctic ice sheets"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"indicative of [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"furthermore, the improper use of the water resources create several environmental problems and leads to global warming and draught,",
+      "expected":[  
+         "the improper use of the water resources"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"leads to [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"ecosystem responses to present-day droughts and heat-waves are often considered indicative of future global warming impacts on ecosystems, under the",
+      "expected":[  
+         "ecosystem responses to present-day droughts"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"indicative of * [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"told congress that global warming was caused by the buildup of greenhouse gases in the atmosphere, due to the burning of fossil fuels.",
+      "expected":[  
+         "the buildup of greenhouse gases in the atmosphere"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"[term] * caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"as one of the fundamental parts of earth's atmosphere, water vapor affects global warming in both positive and negative terms, and offers a trail",
+      "expected":[  
+         "water vapor"
+      ],
+      "term":"global warming",
+      "query":{  
+         "query":"affects [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"of children and teenagers in this sample, confirming the occurrence of traumatic dental injury as an indicative of domestic violence against this group ( 12-14).",
+      "expected":[  
+         "the occurrence of traumatic dental injury"
+      ],
+      "term":"domestic violence",
+      "query":{  
+         "query":"indicative of [term]",
+         "position":"prefix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"as such, the model does not assume that domestic violence is caused by mental or behavioral health problems, substance use, anger, stress, or dysfunctional",
+      "expected":[  
+         "mental or behavioral health problems",
+         "substance use",
+         "anger",
+         "stress"
+      ],
+      "term":"domestic violence",
+      "query":{  
+         "query":"[term] * caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"many popular assumptions such as the belief that domestic violence was caused by mental illness, substance abuse or the actions of the victim influenced the",
+      "expected":[  
+         "mental illness",
+         "substance abuse",
+         "the actions of the victim"
+      ],
+      "term":"domestic violence",
+      "query":{  
+         "query":"[term] * caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   },
+   {  
+      "sentence":"domestic violence can be caused by psychological illnesses or social pressure in one or both spouses",
+      "expected":[  
+         "social pressure in one or both spouses",
+         "psychological illnesses"
+      ],
+      "term":"domestic violence",
+      "query":{  
+         "query":"[term] * caused by",
+         "position":"postfix"
+      },
+      "blackList":[  
+
+      ]
+   }
+]
