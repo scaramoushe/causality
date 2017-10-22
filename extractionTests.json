@@ -46,9 +46,7 @@
    {  
       "sentence":"customers were dissatisfied with fluctuating boat prices due to unpredictable exchange rates, an unreliable supply of spare parts, and uncertain delivery dates",
       "expected":[  
-         "unpredictable exchange rates",
-         "unreliable supply of spare parts",
-         "uncertain delivery"
+         "unpredictable exchange rates"
       ],
       "term":"boat prices",
       "query":{  
