@@ -4,6 +4,10 @@
 		{
 			"query":"to protect against [secondary]",
 			"position":"prefix"
+		},
+		{
+			"query":"to protect against [secondary]s",
+			"position":"prefix"
 		}
     ]
 }
