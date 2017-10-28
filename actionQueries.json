@@ -2,11 +2,7 @@
 	"version":"1.00",
 	"queries":[
 		{
-			"query":"helps * [primary]",
-			"position":"prefix"
-		},
-		{
-			"query":"in order to * [primary]",
+			"query":"to protect against [secondary]",
 			"position":"prefix"
 		}
     ]
