@@ -2,12 +2,34 @@
 	"version":"1.00",
 	"queries":[
 		{
+			"query":"to increase [secondary]",
+			"position":"prefix",
+			"direction":"positive"
+		},
+		{
+			"query":"in order to increase [secondary]",
+			"position":"prefix",
+			"direction":"positive"
+		},
+		{
+			"query":"in order to maximise [secondary]",
+			"position":"prefix",
+			"direction":"positive"
+		},
+		{
+			"query":"to avoid [secondary]",
+			"position":"prefix",
+			"direction":"negative"
+		},
+		{
 			"query":"to protect against [secondary]",
-			"position":"prefix"
+			"position":"prefix",
+			"direction":"negative"
 		},
 		{
 			"query":"to protect against [secondary]s",
-			"position":"prefix"
+			"position":"prefix",
+			"direction":"negative"
 		}
     ]
 }
