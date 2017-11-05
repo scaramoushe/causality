@@ -1,5 +1,10 @@
 [
     {
+        "sentence":"heavy rain",
+        "subject":"rain",
+        "attribute":"heavy"
+    },
+   {
         "sentence":"broken pipes",
         "subject":"pipe",
         "attribute":"broken"
