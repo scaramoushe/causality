@@ -2,6 +2,11 @@
 	"version":"1.00",
 	"queries":[
 		{
+			"query":"to prevent [secondary]",
+			"position":"prefix",
+			"direction":"positive"
+		},
+		{
 			"query":"to increase [secondary]",
 			"position":"prefix",
 			"direction":"positive"
