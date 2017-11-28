@@ -137,6 +137,10 @@
 			"query":"[term] * after",
 			"position":"postfix"
 		}
+		,{
+			"query":"makes * [term]",
+			"position":"prefix"
+		},
 	]
 }
 
