@@ -67,7 +67,7 @@
 		},
 		{
 			"query":"is contributing to [term]",
-			"position":"everything"
+			"position":"prefix"
 		},
 		{
 			"query":"causes of [term] include",
