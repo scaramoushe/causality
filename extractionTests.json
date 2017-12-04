@@ -273,7 +273,7 @@
    {  
       "sentence":"if you are going to take the proffits from large beer sales due to such things as yesterdays brass band competition at least arrange for enough staff to cope with",
       "expected":[  
-         "such things as yesterdays brass band competition"
+         "yesterdays brass band competition"
       ],
       "term":"beer sales",
       "query":{  
