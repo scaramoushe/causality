@@ -881,7 +881,7 @@
    {  
       "sentence":"domestic violence can be caused by psychological illnesses or social pressure in one or both spouses",
       "expected":[  
-         "social pressure in one or both spouses",
+         "social pressure",
          "psychological illnesses"
       ],
       "term":"domestic violence",
