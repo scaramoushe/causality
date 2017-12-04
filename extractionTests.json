@@ -554,7 +554,7 @@
    {  
       "sentence":"ebola outbreak caused by boy playing in bat tree",
       "expected":[  
-         "boy playing in bat tree"
+         "playing in bat tree"
       ],
       "term":"ebola outbreak",
       "query":{  
