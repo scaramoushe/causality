@@ -16,7 +16,7 @@
    {  
       "sentence":"other causes of domestic violence include; disagreement with their intimate partner, protracted periods of unemployment, financial issues,",
       "expected":[  
-         "periods of unemployment",
+         "protracted periods of unemployment",
          "disagreement with their intimate partner",
          "financial issues"
       ],
