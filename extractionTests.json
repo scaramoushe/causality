@@ -32,7 +32,7 @@
    {  
       "sentence":"and while demand for housing in certain markets has combined with shrinking inventories to drive housing prices up to pre-financial and",
       "expected":[  
-         "demand for housing"
+         "demand for housing in certain markets"
       ],
       "term":"housing prices",
       "query":{  
@@ -230,8 +230,7 @@
    {  
       "sentence":"the 1715 communal riots were due to looting of shops of the hindus by the muslim soldiers.",
       "expected":[  
-         "looting of shops",
-         "the muslim soldiers"
+         "looting of shops of the hindus by the muslim soldiers"
       ],
       "term":"riots",
       "query":{  
