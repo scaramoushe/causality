@@ -884,10 +884,6 @@
          "psychological illnesses"
       ],
       "term":"domestic violence",
-      "query":{  
-         "query":"[term] * caused by",
-         "position":"postfix"
-      },
       "blackList":[  
 
       ]
