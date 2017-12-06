@@ -93,10 +93,6 @@
          "cost of fuel"
       ],
       "term":"shipping prices",
-      "query":{  
-         "query":"affect [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "cost"
       ]
@@ -121,10 +117,6 @@
          "weather"
       ],
       "term":"beer sales",
-      "query":{  
-         "query":"[term] impacts",
-         "position":"postfix"
-      },
       "blackList":[  
          "the weather company expert"
       ]
@@ -191,10 +183,6 @@
          "shifting precipitation regimes"
       ],
       "term":"moisture",
-      "query":{  
-         "query":"[term] * due to",
-         "position":"postfix"
-      },
       "blackList":[  
          "infiltration"
       ]
@@ -247,10 +235,6 @@
          "dispute over urdu language"
       ],
       "term":"riots",
-      "query":{  
-         "query":"leads to * [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "a 10-minute tv broadcast"
       ]
@@ -303,10 +287,6 @@
          "the mixed-use building"
       ],
       "term":"beer sales",
-      "query":{  
-         "query":"[term] due to",
-         "position":"postfix"
-      },
       "blackList":[  
          "apartments"
       ]
@@ -317,10 +297,6 @@
          "a blanket of pollution"
       ],
       "term":"global warming",
-      "query":{  
-         "query":"[term] caused by",
-         "position":"postfix"
-      },
       "blackList":[  
          "the earth"
       ]
@@ -458,10 +434,6 @@
          "corrosion in fire sprinkler systems"
       ],
       "term":"water damage",
-      "query":{  
-         "query":"affects [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "fire sprinkler systems"
       ]
@@ -584,10 +556,6 @@
          "adults withholding important information from teens"
       ],
       "term":"teen pregnancy",
-      "query":{  
-         "query":"[term] caused by",
-         "position":"postfix"
-      },
       "blackList":[  
 
       ]
