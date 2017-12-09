@@ -1,4 +1,14 @@
 [  
+ {  
+      "sentence":"both the erosion and flooding models depend upon twl, which is comprised of four component such that: twl equation",
+      "expected":[  
+         "twl"
+      ],
+      "term":"flooding",
+      "blackList":[  
+         "four component"
+      ]
+   },  
    {  
       "sentence":"as expected, distance from water negatively impacts housing prices, with this effect dropping off between 2–5 miles from shore.",
       "expected":[  
