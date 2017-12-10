@@ -1,4 +1,10 @@
-[  
+[ 
+   {
+      "sentence":"dollar tends to negatively impact oil prices.",
+      "expected":["dollar"],
+      "term":"oil prices",
+      "direction":"negative"
+   },
    {  
       "sentence":"as expected, distance from water negatively impacts housing prices, with this effect dropping off between 2–5 miles from shore.",
       "expected":[  
