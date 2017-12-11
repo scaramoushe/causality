@@ -51,7 +51,8 @@
       },
       "blackList":[  
 
-      ]
+      ],
+      "direction":"negative"
    },
    {  
       "sentence":"other causes of domestic violence include; disagreement with their intimate partner, protracted periods of unemployment, financial issues,",
@@ -187,7 +188,8 @@
       },
       "blackList":[  
          "$470 billion life"
-      ]
+      ],
+      "direction":"negative"
    },
    {  
       "sentence":"the thickness of an electrolyte affects corrosion processes in several different ways.",
@@ -368,7 +370,8 @@
       "blackList":[  
          "he underlying decline",
          "the late 1990s"
-      ]
+      ],
+      "direction":"negative"
    },
    {  
       "sentence":"the bank saw an increase in customer satisfaction due to the more personalized experience, and customers reported feeling more valued. ",
