@@ -1,5 +1,11 @@
 [ 
    {
+       "sentence":"the drop in oil prices caused by a supply glut hasn't daunted us drillers.",
+       "expected":["a supply glut"],
+       "term":"oil prices",
+       "direction":"negative"
+   },
+   {
       "sentence":"dollar tends to negatively impact oil prices.",
       "expected":["dollar"],
       "term":"oil prices",
