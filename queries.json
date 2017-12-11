@@ -2,6 +2,10 @@
 	"version":"1.03",
 	"queries":[
 		{
+			"query":"could increase [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"drive [term]",
 			"position":"prefix"
 		},
@@ -67,7 +71,7 @@
 		},
 		{
 			"query":"is contributing to [term]",
-			"position":"everything"
+			"position":"prefix"
 		},
 		{
 			"query":"causes of [term] include",
@@ -136,11 +140,11 @@
 		{
 			"query":"[term] * after",
 			"position":"postfix"
-		}
-		,{
+		},
+		{
 			"query":"makes * [term]",
 			"position":"prefix"
-		},
+		}
 	]
 }
 

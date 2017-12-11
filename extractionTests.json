@@ -1,4 +1,26 @@
 [  
+ {  
+      "sentence":"both the erosion and flooding models depend upon twl, which is comprised of four component such that: twl equation",
+      "expected":[  
+         "twl"
+      ],
+      "term":"flooding",
+      "blackList":[  
+         "four component"
+      ]
+   },   
+   {
+       "sentence":"the drop in oil prices caused by a supply glut hasn't daunted us drillers.",
+       "expected":["a supply glut"],
+       "term":"oil prices",
+       "direction":"negative"
+   },
+   {
+      "sentence":"dollar tends to negatively impact oil prices.",
+      "expected":["dollar"],
+      "term":"oil prices",
+      "direction":"negative"
+   },
    {  
       "sentence":"as expected, distance from water negatively impacts housing prices, with this effect dropping off between 2–5 miles from shore.",
       "expected":[  
@@ -16,7 +38,7 @@
    {  
       "sentence":"other causes of domestic violence include; disagreement with their intimate partner, protracted periods of unemployment, financial issues,",
       "expected":[  
-         "periods of unemployment",
+         "protracted periods of unemployment",
          "disagreement with their intimate partner",
          "financial issues"
       ],
@@ -93,10 +115,6 @@
          "cost of fuel"
       ],
       "term":"shipping prices",
-      "query":{  
-         "query":"affect [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "cost"
       ]
@@ -121,10 +139,6 @@
          "weather"
       ],
       "term":"beer sales",
-      "query":{  
-         "query":"[term] impacts",
-         "position":"postfix"
-      },
       "blackList":[  
          "the weather company expert"
       ]
@@ -191,10 +205,6 @@
          "shifting precipitation regimes"
       ],
       "term":"moisture",
-      "query":{  
-         "query":"[term] * due to",
-         "position":"postfix"
-      },
       "blackList":[  
          "infiltration"
       ]
@@ -230,8 +240,7 @@
    {  
       "sentence":"the 1715 communal riots were due to looting of shops of the hindus by the muslim soldiers.",
       "expected":[  
-         "looting of shops",
-         "the muslim soldiers"
+         "looting of shops of the hindus by the muslim soldiers"
       ],
       "term":"riots",
       "query":{  
@@ -248,10 +257,6 @@
          "dispute over urdu language"
       ],
       "term":"riots",
-      "query":{  
-         "query":"leads to * [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "a 10-minute tv broadcast"
       ]
@@ -273,7 +278,7 @@
    {  
       "sentence":"if you are going to take the proffits from large beer sales due to such things as yesterdays brass band competition at least arrange for enough staff to cope with",
       "expected":[  
-         "such things as yesterdays brass band competition"
+         "yesterdays brass band competition"
       ],
       "term":"beer sales",
       "query":{  
@@ -304,10 +309,6 @@
          "the mixed-use building"
       ],
       "term":"beer sales",
-      "query":{  
-         "query":"[term] due to",
-         "position":"postfix"
-      },
       "blackList":[  
          "apartments"
       ]
@@ -318,10 +319,6 @@
          "a blanket of pollution"
       ],
       "term":"global warming",
-      "query":{  
-         "query":"[term] caused by",
-         "position":"postfix"
-      },
       "blackList":[  
          "the earth"
       ]
@@ -459,10 +456,6 @@
          "corrosion in fire sprinkler systems"
       ],
       "term":"water damage",
-      "query":{  
-         "query":"affects [term]",
-         "position":"prefix"
-      },
       "blackList":[  
          "fire sprinkler systems"
       ]
@@ -554,7 +547,7 @@
    {  
       "sentence":"ebola outbreak caused by boy playing in bat tree",
       "expected":[  
-         "boy playing in bat tree"
+         "playing in bat tree"
       ],
       "term":"ebola outbreak",
       "query":{  
@@ -585,10 +578,6 @@
          "adults withholding important information from teens"
       ],
       "term":"teen pregnancy",
-      "query":{  
-         "query":"[term] caused by",
-         "position":"postfix"
-      },
       "blackList":[  
 
       ]
@@ -881,14 +870,10 @@
    {  
       "sentence":"domestic violence can be caused by psychological illnesses or social pressure in one or both spouses",
       "expected":[  
-         "social pressure in one or both spouses",
+         "social pressure",
          "psychological illnesses"
       ],
       "term":"domestic violence",
-      "query":{  
-         "query":"[term] * caused by",
-         "position":"postfix"
-      },
       "blackList":[  
 
       ]
