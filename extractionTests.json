@@ -1,13 +1,19 @@
 [  
- {  
-      "sentence":"both the erosion and flooding models depend upon twl, which is comprised of four component such that: twl equation",
-      "expected":[  
-         "twl"
-      ],
-      "term":"flooding",
-      "blackList":[  
-         "four component"
-      ]
+    {
+        "sentence":"the drop in oil prices caused by increasing global supply, stagnating demand and severely exacerbated by the 2014 opec meeting, has dramatically affected the west side – essentially halting commercial real estate development, growth and leasing activity.",
+        "expected":["stagnating demand"],
+        "term":"oil prices",
+        "direction":"positive"
+    },
+    {  
+        "sentence":"both the erosion and flooding models depend upon twl, which is comprised of four component such that: twl equation",
+        "expected":[  
+            "twl"
+         ],
+        "term":"flooding",
+        "blackList":[  
+            "four component"
+        ]
    },   
    {
        "sentence":"the drop in oil prices caused by a supply glut hasn't daunted us drillers.",
