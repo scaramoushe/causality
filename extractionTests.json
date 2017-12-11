@@ -1,4 +1,14 @@
-[ 
+[  
+ {  
+      "sentence":"both the erosion and flooding models depend upon twl, which is comprised of four component such that: twl equation",
+      "expected":[  
+         "twl"
+      ],
+      "term":"flooding",
+      "blackList":[  
+         "four component"
+      ]
+   },   
    {
        "sentence":"the drop in oil prices caused by a supply glut hasn't daunted us drillers.",
        "expected":["a supply glut"],
