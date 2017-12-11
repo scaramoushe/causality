@@ -1,4 +1,10 @@
-[  
+[ 
+    {
+        "sentence":"falling oil prices hurt countries dependent on oil exports, such as russia, while those that import oil benefited from cheaper prices.",
+        "expected":["oil exports"],
+        "term":"oil prices",
+        "direction":"positive"
+    },
     {
         "sentence":"the drop in oil prices caused by increasing global supply, stagnating demand and severely exacerbated by the 2014 opec meeting, has dramatically affected the west side – essentially halting commercial real estate development, growth and leasing activity.",
         "expected":["stagnating demand"],
