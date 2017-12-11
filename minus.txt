@@ -14,6 +14,7 @@ weak
 lack of
 failed or delinquent
 failed
+falling
 inferior
 poor
 minimum
