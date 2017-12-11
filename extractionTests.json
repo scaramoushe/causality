@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"rising food prices cause political instability in the middle east , which leads to higher oil prices, which leads to higher food prices, which leads to more instability.",
+        "expected":["rising food prices"],
+        "term":"oil prices",
+        "direction":"positive"
+    },
+    {
         "sentence":"falling oil prices hurt countries dependent on oil exports, such as russia, while those that import oil benefited from cheaper prices.",
         "expected":["oil exports"],
         "term":"oil prices",
