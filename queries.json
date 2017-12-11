@@ -2,6 +2,10 @@
 	"version":"1.03",
 	"queries":[
 		{
+			"query":"could increase [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"drive [term]",
 			"position":"prefix"
 		},
