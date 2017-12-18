@@ -1,0 +1,37 @@
+{
+	"version":"1.00",
+	"queries":[
+		{
+			"query":"* induced by [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"* affected by [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"* driven by [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"[term] leads to *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] can affect *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] determines *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] is contributing to *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] causes *",
+			"position":"postfix"
+		}
+    ]
+}
