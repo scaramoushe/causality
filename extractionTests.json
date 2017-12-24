@@ -1,8 +1,9 @@
 [ 
     {
-        "sentence":"crude oil prices are determined by both demand and supply.",
-        "expected":["demand and supply"],
-        "term":"oil prices"
+        "sentence":" we have spiking demand coupled with stagnating supply, this leads to skyrocketing housing prices.",
+        "expected":["supply"],
+        "term":"oil prices",
+        "direction":"negative"
     },
     {
         "sentence":"rising food prices cause political instability in the middle east , which leads to higher oil prices, which leads to higher food prices, which leads to more instability.",
