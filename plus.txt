@@ -28,3 +28,4 @@ astronomical
 rising
 skyrocketing
 rise in
+spiking
