@@ -1,8 +1,8 @@
 [ 
     {
-        "sentence":" we have spiking demand coupled with stagnating supply, this leads to skyrocketing housing prices.",
+        "sentence":"spiking demand coupled with stagnating supply leads to skyrocketing housing prices.",
         "expected":["supply"],
-        "term":"oil prices",
+        "term":"housing prices",
         "direction":"negative"
     },
     {
