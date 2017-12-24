@@ -32,6 +32,7 @@ shrinking
 restrict
 below-normal
 loss of
+negative impact on
 negative effect on
 stagnating
 hurt
