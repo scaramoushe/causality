@@ -2,7 +2,19 @@
 	"version":"1.03",
 	"queries":[
 		{
+			"query":"influences * [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"associated with [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"could increase [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"reason for [term]",
 			"position":"prefix"
 		},
 		{
