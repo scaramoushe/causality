@@ -2,6 +2,10 @@
 	"version":"1.00",
 	"queries":[
 		{
+			"query":"people have * with [term]",
+			"position":"infix"
+		},
+		{
 			"query":"relationship between [term] and *",
 			"position":"postfix"
 		},
