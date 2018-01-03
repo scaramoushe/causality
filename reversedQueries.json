@@ -2,6 +2,10 @@
 	"version":"1.00",
 	"queries":[
 		{
+			"query":"relationship between [term] and *",
+			"position":"postfix"
+		},
+		{
 			"query":"* induced by [term]",
 			"position":"prefix"
 		},
