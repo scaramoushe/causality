@@ -2,6 +2,10 @@
 	"version":"1.00",
 	"queries":[
 		{
+			"query":"* increases [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"[term] induced",
 			"position":"postfix"
 		},
