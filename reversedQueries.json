@@ -29,12 +29,28 @@
 			"query":"* driven by [term]",
 			"position":"prefix"
 		},
-		{
+		{			
 			"query":"[term] leads to *",
 			"position":"postfix"
 		},
 		{
+			"query":"[term] may increase * risk of",
+			"position":"postfix"
+		},
+		{
 			"query":"[term] can affect *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] may raise the chance of",
+			"position":"postfix"
+		},
+		{			
+			"query":"[term] can cause *",
+			"position":"postfix"
+		},
+		{
+			"query":"[term] may affect *",
 			"position":"postfix"
 		},
 		{
@@ -48,6 +64,10 @@
 		{
 			"query":"[term] causes *",
 			"position":"postfix"
-		}
+		},
+		{
+			"query":"[term] may cause",
+			"position":"postfix"
+		},
     ]
 }
