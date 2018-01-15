@@ -42,6 +42,18 @@
 			"position":"prefix"
 		},
 		{
+			"query":"may cause [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"may also cause [term]",
+			"position":"prefix"
+		},
+		{
+			"query":"causes [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"[term] caused by",
 			"position":"postfix"
 		},
