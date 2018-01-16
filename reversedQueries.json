@@ -68,6 +68,6 @@
 		{
 			"query":"[term] may cause",
 			"position":"postfix"
-		},
+		}
     ]
 }
