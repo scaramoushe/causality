@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"warnings allergy alert: ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.",
+        "expected":["a severe allergic reaction"],
+        "term":"ibuprofen",
+        "blackList":["aspirin"]
+    },
+    {
         "sentence":"adempas can cause serious birth defects if taken during pregnancy.",
         "expected":["serious birth defects"],
         "term":"adempas",
