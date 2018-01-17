@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"adempas can cause serious birth defects if taken during pregnancy.",
+        "expected":["serious birth defects"],
+        "term":"adempas",
+        "blackList":["pregnancy"]
+    },
+    {
         "sentence":"spiking demand coupled with stagnating supply leads to skyrocketing housing prices.",
         "expected":["stagnating supply"],
         "term":"housing prices",
