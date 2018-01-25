@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"fluconazole causes fewer, less severs side effects including skin rashes and liver enzyme abnormalities.",
+        "expected":["fewer","skin rashes","liver enzyme abnormalities"],
+        "term":"fluconazole",
+        "blackList":["side effects"]
+    },
+    {
         "sentence":"warnings allergy alert: ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.",
         "expected":["a severe allergic reaction"],
         "term":"ibuprofen",
