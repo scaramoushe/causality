@@ -112,3 +112,6 @@ some people
 main reasons
 sizes
 everybody
+effects
+person
+condition
