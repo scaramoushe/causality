@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"voriconazole can cause harm to the fetus when the medication is taken during pregnancy.",
+        "expected":["harm to the fetus"],
+        "term":"voriconazole",
+        "blackList":["the medication"]
+    },
+    {
         "sentence":"fluconazole causes fewer, less severs side effects including skin rashes and liver enzyme abnormalities.",
         "expected":["fewer","skin rashes","liver enzyme abnormalities"],
         "term":"fluconazole",
