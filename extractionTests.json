@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"prices and an increase in bulk shipping demand due to massive infrastructure development by china in preparation for the 2008 summer olympics.",
+        "expected":["massive infrastructure development"],
+        "term":"shipping demand",
+        "blackList":["china"]
+    },
+    {
         "sentence":"eating before bed causes nightmares",
         "expected":["eating before bed"],
         "term":"nightmares",
