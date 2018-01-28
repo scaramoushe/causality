@@ -115,3 +115,11 @@ everybody
 effects
 person
 condition
+some medicines
+your body
+some unwanted effects
+some side effects
+way
+serious side effects
+problems
+harm
