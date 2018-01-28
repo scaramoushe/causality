@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"eating before bed causes nightmares",
+        "expected":["eating before bed"],
+        "term":"nightmares",
+        "blackList":["bed"]
+    },
+    {
         "sentence":"voriconazole can cause harm to the fetus when the medication is taken during pregnancy.",
         "expected":["harm to the fetus"],
         "term":"voriconazole",
