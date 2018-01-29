@@ -1,10 +1,12 @@
 lesser
 less
+loss
 loss of
 drop in
 lower
 low
 decreasing
+decrease
 decrease in
 decreases
 decreased
@@ -39,3 +41,12 @@ hurt
 depressed
 little
 super low
+inhibition
+inhibition of
+impair
+lowering
+absence
+reducing
+reduction
+reduction of
+reduction in
