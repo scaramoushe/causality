@@ -2,6 +2,7 @@ more
 high
 higher
 increasing
+increase
 increase in
 increases
 increased
@@ -9,6 +10,7 @@ increases in
 greater
 strong
 stronger
+strongest
 disproportionate increase in
 buildup of
 maximum
@@ -20,6 +22,8 @@ addition of
 positive
 positively
 large
+large increase
+large increase in 
 big
 goes sky high
 superior
@@ -29,3 +33,16 @@ rising
 skyrocketing
 rise in
 spiking
+accumulation of
+higher increase
+higher increase in
+significant increase
+presence
+presence of
+prolonged
+prolongation
+prolongation of
+prolongation in
+improvement
+improvement in
+improvement of
