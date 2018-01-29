@@ -112,6 +112,7 @@ some people
 main reasons
 sizes
 everybody
+effect
 effects
 person
 condition
@@ -123,3 +124,33 @@ way
 serious side effects
 problems
 harm
+adverse effects
+reason
+reasons
+note
+severe reaction
+disruption
+findings
+yesterday
+signs
+actions
+activity
+case
+medicines
+activation
+inactivation
+self
+another way
+product
+products
+difference
+alterations
+months
+outcome
+shift
+minor side effects
+any form
+ability
+few instances
+baseline
+none
