@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"The rise in unemployment in these countries has made people reluctant to start a family, which in turn affects the sales of baby strollers and prams.",
+        "expected":["people reluctant to start a family"],
+        "term":"sales of baby strollers",
+        "blackList":[]
+    },
+    {
         "sentence":"prices and an increase in bulk shipping demand due to massive infrastructure development by china in preparation for the 2008 summer olympics.",
         "expected":["massive infrastructure development"],
         "term":"shipping demand",
