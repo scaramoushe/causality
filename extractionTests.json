@@ -1,5 +1,17 @@
 [ 
     {
+        "sentence":"use of an objective causality tool indicated a probable relationship between ibuprofen and development of aseptic meningitis in our patient.",
+        "expected":["development of aseptic meningitis in our patient"],
+        "term":"ibuprofen",
+        "blackList":["development"]
+    },
+    {
+        "sentence":"ibuprofen may cause men to have fertility problems",
+        "expected":["men to have fertility problems"],
+        "term":"ibuprofen",
+        "blackList":["men"]
+    },
+    {
         "sentence":"The rise in unemployment in these countries has made people reluctant to start a family, which in turn affects the sales of baby strollers and prams.",
         "expected":["people reluctant to start a family"],
         "term":"sales of baby strollers",
