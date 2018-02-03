@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"ibuprofen may cause an increase in blood pressure, particularly for people who already have high blood pressure.",
+        "expected":["people who already have high blood pressure","an increase in blood pressure"],
+        "term":"ibuprofen",
+        "blackList":["people"]
+    },
+    {
         "sentence":"use of an objective causality tool indicated a probable relationship between ibuprofen and development of aseptic meningitis in our patient.",
         "expected":["development of aseptic meningitis in our patient"],
         "term":"ibuprofen",
