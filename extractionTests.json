@@ -1,5 +1,11 @@
 [ 
     {
+        "sentence":"too much ibuprofen can cause stomach upset and kidney damage.",
+        "expected":["kidney damage"],
+        "term":"ibuprofen",
+        "blackList":["damage"]
+    },
+    {
         "sentence":"ibuprofen may cause an increase in blood pressure, particularly for people who already have high blood pressure.",
         "expected":["people who already have high blood pressure","an increase in blood pressure"],
         "term":"ibuprofen",
