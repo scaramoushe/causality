@@ -1,4 +1,10 @@
-[ 
+[
+    {
+        "sentence":"voriconazole can cause changes in your vision such as blurring or sensitivity to light",
+        "expected":["sensitivity to light"],
+        "term":"voriconazole",
+        "blackList":["light"]
+    },
     {
         "sentence":"in normal and tumor tissues, the hydrolysis of irinotecan leads to the formation of sn-38, a potent topoisomerase inhibitor.",
         "expected":["the formation of sn-38"],
