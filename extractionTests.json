@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"amlodipine causes reduction of cerebral vascular resistance and promotes improvement in arterial blood filling in patients with essential hypertension",
+        "expected":["improvement in arterial blood filling"],
+        "term":"amlodipine",
+        "blackList":["improvement"]
+    },
+    {
         "sentence":"voriconazole can cause changes in your vision such as blurring or sensitivity to light",
         "expected":["sensitivity to light"],
         "term":"voriconazole",
