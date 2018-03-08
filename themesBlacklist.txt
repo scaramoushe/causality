@@ -9,6 +9,7 @@ novels
 singles
 concepts
 albums
+album
 article
 terminology
 juvenile literature
