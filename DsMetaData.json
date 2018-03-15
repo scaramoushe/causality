@@ -2,49 +2,49 @@
     {
         "name":"HPI",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/HPI.csv",
-        "keywords":["housing prices"],
+        "keywords":["housing prices", "hpi", "housing index", "house price index"],
         "valueColumn":"hpi",
         "keyColumns":["year","countryCode"]  
     },
     {
         "name":"Economics",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Economic_WorldBankIndicators_2017.csv.gz",
-        "keywords":["interest rate", "inflation", "income"],
+        "keywords":["economics", "gdp", "money", "interest rate", "inflation", "income" ,"finance", "economy", "finanical", "money", "interest", "spending"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
     {
         "name":"Financial",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Financial_WorldBankIndicators_2017.csv.gz",
-        "keywords":["interest rate", "inflation", "income"],
+        "keywords":["interest rate", "inflation", "income", "finance", "economy", "finanical", "money", "interest", "spending"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
     {
         "name":"Gender",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Gender_WorldBankIndicators_2017.csv.gz",
-        "keywords":["immigrants", "population", "density"],
+        "keywords":["gender", "women", "equality", "sex", "births", "male", "female", "children"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
     {
         "name":"Social",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Social_WorldBankIndicators_2017.csv.gz",
-        "keywords":["immigrants", "population", "density", "income"],
+        "keywords":["immigrants", "society", "social", "income"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
      {
         "name":"Poverty",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Poverty_WorldBankIndicators_2017.csv.gz",
-        "keywords":["immigrants", "population", "density", "income", "inflation"],
+        "keywords":["immigrants", "population", "income", "economy","aid", "poverty", "poor", "rural", "welfare", "slave", "labourers"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
      {
         "name":"Health",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Health_WorldBankIndicators_2017.csv.gz",
-        "keywords":["immigrants", "population", "density"],
+        "keywords":["life", "population", "health", "welfare", "disease", "drugs", "healthcare","medical","doctors","medicine","hospitals","death","lifespan"],
         "valueColumn":"countryCode",
         "keyColumns":["year","countryCode"]  
     },
@@ -67,7 +67,7 @@
  ,{
         "name":"GlobalCommodityNominalPricesWorldBank_Oil",
         "url":"https://s3.amazonaws.com/public-sparkbeyond/world-knowledge/GEM_GlobalCommodityPrices-Nominal-WorldBank-9-2017.csv.gz",
-        "keywords":["price", "oil price", "supply","demand","commodities", "commodity", "trade", "materials","trade","goods", "food", "prices", "minerals", "oil","food"],
+        "keywords":["goods","trade", "price", "oil price", "supply","demand","commodities", "commodity", "trade", "materials", "food", "prices", "minerals", "oil","food"],
         "valueColumn":"crudeOil_WTI_bbl_Nominal_CRUDE_WTI_",
         "keyColumns":["time"]  
     }
@@ -89,7 +89,7 @@
        ,{
         "name":"UK-Unemployment-Quarterly-Change",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/UK-Unemployment-Quarterly-Change-UKONS-LMS_MGSX-181017.csv.gz",
-        "keywords":["UK unemployment","UK","U.K","Britain","macroeconomic","unemployment","labour force participation", "economic","employment","labor","demand"],
+        "keywords":["UK unemployment","UK","U.K","Britain","England", "macroeconomic","unemployment","labour force participation", "economic","employment","labor","demand", "workers", "workforce"],
         "valueColumn":"value",
         "keyColumns":["date"]  
     }      
@@ -105,7 +105,7 @@
       ,{
         "name":"GoldPrice_monthly_USD",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/GOLD_Price_Monthly-LBMA.csv.gz",
-        "keywords":["price","valuables", "gold","gold price","supply","demand","commodities", "commodity", "gold", "mineral","metal","goods", "prices","metals"],
+        "keywords":["price","valuables", "gold","gold price","supply","demand","commodities", "commodity", "gold", "mineral","metal","goods", "prices","metals", "trade"],
         "valueColumn":"gold_USD",
         "keyColumns":["date"]  
     }   
@@ -113,7 +113,7 @@
     ,{
         "name":"UK-FloodRisk-openPostalCodes_2015",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/DataSets/GOLD_Price_Monthly-LBMA.csv.gz",
-        "keywords":["flood","UK", "Flooding","risk","insurance","water","flood risk", "water damage"],
+        "keywords":["flood","UK", "Flooding","risk","insurance","water","flood risk", "water damage", "floods"],
         "valueColumn":"risk_for_insurance_sop",
         "keyColumns":["latLong"]  
     }   
