@@ -54,6 +54,10 @@
 			"position":"prefix"
 		},
 		{
+			"query":"could help foster [term]",
+			"position":"prefix"
+		},
+		{
 			"query":"[term] caused by",
 			"position":"postfix"
 		},
