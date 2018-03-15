@@ -38,6 +38,10 @@
 			"position":"postfix"
 		},
 		{
+			"query":"[term] * the risk of",
+			"position":"postfix"
+		},
+		{
 			"query":"[term] can affect *",
 			"position":"postfix"
 		},
