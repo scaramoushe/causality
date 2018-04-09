@@ -38,7 +38,7 @@
         "name":"Poverty",
         "url":"https://s3.eu-central-1.amazonaws.com/sb-labs/WB/data/Poverty_WorldBankIndicators_2017.csv.gz",
         "keywords":["immigrants", "population", "income", "economy","aid", "poverty", "poor", "rural", "welfare", "slave", "labourers"],
-        "valueColumn":"countryCode",
+        "valueColumn":"povertyHeadcountRatioAtNationalPovertyLines_OfPopulation_",
         "keyColumns":["year","countryCode"]  
     },
      {
