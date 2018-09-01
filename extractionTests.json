@@ -1,7 +1,7 @@
 [
     {
         "sentence":"freon is highly toxic for humans and the environment and work with freon underlies restriction by international treaties.",
-        "expected":["highly toxic"],
+        "expected":["toxic for humans"],
         "term":"freon",
         "blackList":["humans","the environment"]
     },
