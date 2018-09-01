@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"freon has an odor distinctly different than the oxygen you breathe and can be detected quite easily",
+        "expected":["an odor"],
+        "term":"freon",
+        "blackList":["the oxygen"]
+    },
+    {
         "sentence":"freon is highly toxic for humans and the environment and work with freon underlies restriction by international treaties.",
         "expected":["toxic for humans"],
         "term":"freon",
