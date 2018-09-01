@@ -1,5 +1,17 @@
 [
     {
+        "sentence":"freon is considered to be unsafe to the atmosphere.",
+        "expected":["unsafe to the atmosphere"],
+        "term":"freon",
+        "blackList":["the atmosphere"]
+    },
+    {
+        "sentence":"cost quite obviously, and of course freon is very harmful to the atmosphere, which in the small amount used in racing would not be a problem",
+        "expected":["harmful to the atmosphere"],
+        "term":"freon",
+        "blackList":["the atmosphere"]
+    },
+    {
         "sentence":"freon has an odor distinctly different than the oxygen you breathe and can be detected quite easily",
         "expected":["an odor"],
         "term":"freon",
