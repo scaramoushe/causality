@@ -1,5 +1,17 @@
 [
     {
+        "sentence":"bromine has one less quantum shell than iodine.",
+        "expected":[],
+        "term":"bromine",
+        "blackList":["iodine"]
+    },
+    {
+        "sentence":"bromine has a pungent odour and is irritating to the skin, eyes, and respiratory system.",
+        "expected":["a pungent odour","irritating to the skin"],
+        "term":"bromine",
+        "blackList":["the skin"]
+    },
+    {
         "sentence":"freon is very hot when it returns to the compressor.",
         "expected":[],
         "term":"freon",
