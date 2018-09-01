@@ -167,3 +167,6 @@ facts
 anyone
 mr
 %
+many advantages
+same problem
+years
