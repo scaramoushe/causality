@@ -1,5 +1,17 @@
 [
     {
+        "sentence":"freon is very hot when it returns to the compressor.",
+        "expected":[],
+        "term":"freon",
+        "blackList":["the compressor"]
+    },
+    {
+        "sentence":"until the freon is very low, and then the compressor would",
+        "expected":[],
+        "term":"freon",
+        "blackList":["the compressor"]
+    },
+    {
         "sentence":"freon is considered to be unsafe to the atmosphere.",
         "expected":["unsafe to the atmosphere"],
         "term":"freon",
