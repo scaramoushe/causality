@@ -31,7 +31,7 @@
     },
     {
         "sentence":"ibuprofen may cause an increase in blood pressure, particularly for people who already have high blood pressure.",
-        "expected":["people who already have high blood pressure","an increase in blood pressure"],
+        "expected":["an increase in blood pressure"],
         "term":"ibuprofen",
         "blackList":["people"]
     },
