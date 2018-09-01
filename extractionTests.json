@@ -1,5 +1,17 @@
 [
     {
+        "sentence":"freon is highly toxic for humans and the environment and work with freon underlies restriction by international treaties.",
+        "expected":["highly toxic"],
+        "term":"freon",
+        "blackList":["humans","the environment"]
+    },
+    {
+        "sentence":"freon is very damaging to the environment, so leaks must be brought under control as soon as possible",
+        "expected":["damaging to the environment"],
+        "term":"freon",
+        "blackList":["the environment"]
+    },
+    {
         "sentence":"Miner South32 partners with GE, rolls out industrial IoT",
         "expected":["ge"],
         "term":"South32",
