@@ -4,7 +4,7 @@
         "expected":["a much more efficient oxidant than br"],
         "term":"hobr",
         "blackList":["reaction"]
-    }
+    },
     {
         "sentence":"in the early years of the first world war, bromine compounds such as xylyl bromide were used as poison gas.",
         "expected":["xylyl bromide"],
