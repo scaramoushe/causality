@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"weight and include natural gas and naphtha, which are used in hydrogen production. Renewable raw materials used by Praxair include air",
+        "expected":["hydrogen production"],
+        "term":"naphtha",
+        "blackList":[]
+    },
+    {
         "sentence":"in the latter case hobr is a much more efficient oxidant than br, and reaction takes place with oxalic acid or mono-oxalate but not with the dioxalate",
         "expected":["a much more efficient oxidant than br"],
         "term":"hobr",
