@@ -1,4 +1,9 @@
 [
+    {"sentence":"The liberated bromine helps in oxidizing iodide to an equivalent amount of iodine",
+        "expected":["oxidizing iodide"],
+        "term":"bromine",
+        "blackList":[]
+    },
     {
         "sentence":"weight and include natural gas and naphtha, which are used in hydrogen production. Renewable raw materials used by Praxair include air",
         "expected":["hydrogen production"],
