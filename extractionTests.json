@@ -1,5 +1,12 @@
 [
-    {"sentence":"The liberated bromine helps in oxidizing iodide to an equivalent amount of iodine",
+    {
+        "sentence":"Bromine helps in penetration of nutrients to the skin membranes",
+        "expected":["penetration of nutrients"],
+        "term":"bromine",
+        "blackList":[]
+    },   
+    {
+        "sentence":"The liberated bromine helps in oxidizing iodide to an equivalent amount of iodine",
         "expected":["oxidizing iodide"],
         "term":"bromine",
         "blackList":[]
