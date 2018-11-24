@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"A member of the halide family, bromine is similar to chlorine",
+        "expected":["chlorine"],
+        "term":"bromine",
+        "blackList":[]
+    },
+    {
         "sentence":"Bromine helps in penetration of nutrients to the skin membranes",
         "expected":["penetration of nutrients"],
         "term":"bromine",
