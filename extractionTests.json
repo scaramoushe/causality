@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"expired ev batteries are not powerful enough for passenger vehicles,",
+        "expected":["powerful"],
+        "term":"ev batteries",
+        "blackList":[]
+    },
+    {
         "sentence":"A member of the halide family, bromine is similar to chlorine",
         "expected":["chlorine"],
         "term":"bromine",
