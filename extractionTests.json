@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"batteries is too high for most hearing aids so it has to be used in hearing aids that are specially designed to handle higher voltage levels",
+        "expected":["higher voltage levels"],
+        "term":"batteries",
+        "blackList":[]
+    },
+    {
         "sentence":"expired ev batteries are not powerful enough for passenger vehicles,",
         "expected":["powerful"],
         "term":"ev batteries",
