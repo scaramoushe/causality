@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"lululemon sales were up during the holidays: maybe yoga is what you need after dealing with your family.",
+        "expected":["the holidays"],
+        "term":"lululemon sales",
+        "blackList":[]
+    },
+    {
         "sentence":"batteries is too high for most hearing aids so it has to be used in hearing aids that are specially designed to handle higher voltage levels",
         "expected":["higher voltage levels"],
         "term":"batteries",
