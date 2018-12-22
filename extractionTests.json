@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"high refractive index and impedance matched materials required in the field of transformation optics.",
+        "expected":["transformation optics"],
+        "term":"high refractive index",
+        "blackList":[]
+    },
+    {
         "sentence":"lululemon sales were up during the holidays: maybe yoga is what you need after dealing with your family.",
         "expected":["the holidays"],
         "term":"lululemon sales",
