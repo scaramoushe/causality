@@ -1,5 +1,11 @@
 [
     {
+        "sentence":"Lumileds lighting is headquartered in san Jose, CA, with operations in the Netherlands, Malaysia and Japan, and sales offices throughout the",
+        "expected":["san Jose"],
+        "term":"lighting",
+        "blackList":[]
+    },
+    {
         "sentence":"high refractive index and impedance matched materials required in the field of transformation optics.",
         "expected":["transformation optics"],
         "term":"high refractive index",
