@@ -211,3 +211,8 @@ received
 provided
 performed
 generally
+faced
+combination
+groups
+typical
+collected
