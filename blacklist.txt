@@ -189,3 +189,11 @@ reference
 minutes
 starting
 short
+parts
+process
+place
+step
+determined
+calculated
+caused
+replaced
