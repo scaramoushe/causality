@@ -1,0 +1,8 @@
+Remove or reduce [AGENT]
+Modify [GOAL] to eliminate the need for [AFFECTED_ATTRIBUTE]
+Protect [OBJECT] from [ACTION] with safety substance that attracts [ACTION] onto itself
+Reduce exposure of [OBJECT] to [ACTION]
+Modify [OBJECT] to make it's [AFFECTED_ATTRIBUTE] less sensitive to [ACTION]
+Insulate [OBJECT] from [AGENT]
+Insulate [OBJECT] from [ACTION]
+Counteract the [ACTION] to reverse [AFFECTED_ATTRIBUTE]
